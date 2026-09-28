@@ -39,7 +39,7 @@ Campers learn concepts necessary for a STEM career from our expert guests and pr
 {{< spacer 20 >}}
 ## Take a peek at our unique approach
 
-{{< youtube_enhanced id="b3ta7fOo6Mo" >}}
+{{< youtube_enhanced id="rdHMBYgP3Cc" >}}
 
 {{< spacer 20 >}}
 
